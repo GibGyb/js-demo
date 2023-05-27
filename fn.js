@@ -181,7 +181,3 @@ console.log(bodin.address, bodin.foobar); //undefined, undefined
 console.log("address" in bodin, "foobar" in bodin);
 
 //____________________________________________
-
-// TEST TEST TEST
-
-// test test test
